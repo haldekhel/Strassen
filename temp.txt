@@ -1,6 +1,0 @@
-  mtwo = np.multiply(np.add(A[1], A[3]), B[0])
-  mthree = np.multiply(A[0], np.subtract(B[2], B[3]))
-  mfour = np.multiply(A[3], np.subtract(B[1], B[0]))
-  mfive = np.multiply(np.add(A[0], A[2]), B[3])
-  msix = np.multiply(np.subtract(A[1], A[0]), np.add(B[0], B[2]))
-  mseven = np.multiply(np.subtract(A[2], A[3]), np.add(B[1], B[3]))
