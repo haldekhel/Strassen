@@ -1,6 +1,7 @@
 import numpy as np
-arg1 = input()
-arg2 = input()
+import sys
+arg1 = sys.argv[1]
+arg2 = sys.argv[2]
 aFile = open(arg1, 'r+')
 bFile = open(arg2, 'r+')
 aN = int(aFile.readline())
